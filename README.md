@@ -4,3 +4,4 @@ This project includes more than 1,000 exercises with step-by-step instructions. 
 
 
 ## [click here to access the site](https://jkenjidc.github.io/FitnessWebsite)
+click the top right icon to access the full site
