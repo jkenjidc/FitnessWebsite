@@ -11,7 +11,7 @@ const ExerciseCard = ({ exercise}) => {
                 sx = {{
                     ml: "21px", 
                     color: "#fff", 
-                    background: "#FFA9A9", 
+                    background: "#255A3A", 
                     fontSize: "14px", 
                     borderRadius: "20px",
                     textTransform: "capitalize"}}

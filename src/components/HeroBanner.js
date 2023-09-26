@@ -8,7 +8,7 @@ const HeroBanner = () => {
         mt: { lg: '212px', xs:'70px' },
         ml: { sm: '50px' }
     }} position = "relative" p = "20px">
-        <Typography color = "#FF2625"
+        <Typography color = "#255A3A"
             fontWeight = "600"
             fontSize = "26px" 
         >
@@ -36,7 +36,7 @@ const HeroBanner = () => {
             color = "error"
             href = "#exercises"
             sx = {{
-                backgroundColor: '#FF2625',
+                backgroundColor: '#255A3A',
                 padding: '10px'
             }}
         >
@@ -44,7 +44,7 @@ const HeroBanner = () => {
         </Button>
         <Typography
             fontWeight = { 600 }
-            color = "#ff2625"
+            color = "#255A3A"
             sx = {{
                 opacity: 0.1,                
                 display: {lg: 'block', xs: 'none'}
