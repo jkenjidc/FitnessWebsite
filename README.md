@@ -4,4 +4,3 @@ This project includes more than 1,000 exercises with step-by-step instructions. 
 
 
 ## [click here to access the site](https://fitness-website-five.vercel.app)
-click the top left icon to access the full site
